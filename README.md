@@ -2,7 +2,7 @@
 
 [Click here](https://helm.sh/)
 
-## Installing...
+## Install
 
 Clone:
 
